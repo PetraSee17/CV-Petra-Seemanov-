@@ -1,2 +1,2 @@
-# CV-Petra-Seemanov-
+# CV-Petra-Seemanova
 Životopis
