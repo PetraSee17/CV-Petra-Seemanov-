@@ -1,0 +1,80 @@
+body {
+  background-color: #f5deb3;
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+  border: 6px solid;
+  border-color: #756158;
+  border-style: groove;
+}
+header h1 {
+  padding-bottom: 30px;
+  text-align: center;
+  text-decoration: underline;
+}
+h3 {
+  text-align: center;
+}
+
+.mojefoto {
+  margin-left: 18%;
+  margin-right: 10%;
+  float: left;
+  width: 22%;
+  border: 3px solid;
+}
+
+.info {
+  text-align: center;
+  padding-top: 30px;
+  margin-bottom: 10%;
+}
+.Vzdelani {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.logoTCS,
+.logoEspresso,
+.logoASP,
+.logoTMobile {
+  width: 80px;
+  height: 80px;
+  float: left;
+  border: 2px solid;
+  border-radius: 10px;
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+.Espresso,
+.ASP,
+.Tmobile,
+.TCS {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.pozice {
+  text-decoration: underline;
+}
+
+td {
+  text-align: left;
+  padding: 10px;
+}
+.udaje {
+  text-align: right;
+  padding-left: 20px;
+}
+footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding-top: 10px;
+}
+a {
+  font-style: italic;
+  color: black;
+}
+.paticka {
+  color: white;
+}
